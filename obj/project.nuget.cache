@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wpIOipd4y3GWFPF/Z4Yz/pAwRjlBKNvRzu/xF7mOVKpPVMdJ8wLpSEELcOINq0/MINRbsh330D1yzslBsSXO2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IEUser\\source\\repos\\ZLOGG3R\\ZLOGG3R.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IEUser\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.17\\microsoft.netcore.app.host.win-x64.3.1.17.nupkg.sha512"
+  ],
+  "logs": []
+}
