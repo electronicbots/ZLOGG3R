@@ -1,1 +1,1 @@
-[Set the Web Server directory here}
+[Set the Web Server directory here]
